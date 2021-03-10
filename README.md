@@ -1,8 +1,8 @@
-# DSA_Formacao_CD_Projeto4
+# Analise_Churn_Telecom
 
-Projeto 4 da Formação Cientista de Dados da Data Science Brazil.
+Este é um projeto realizado durante a Formação Cientista de Dados da Data Science Brazil.
 
-Projeto sobre análise de churn em uma empresa do ramo de telecom.
+Trata-se de um projeto sobre análise de churn em uma empresa do ramo de telecom.
 
 GUIA DO REPOSITÓRIO:
 - O arquivo *script.ipynb* é o script end-to-end do projeto.
