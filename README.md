@@ -15,4 +15,8 @@ POSSÍVEIS MELHORIAS:
 - Testar outros algoritmos de regressão como o XGBoost, a fim de encontrar o melhor modelo possível.
 
 PRÓXIMOS PASSOS:
-- Projetar ações específicas para retenção dos clientes com maior tendência de churn.
+- Projetar ações específicas para retenção dos clientes com maior tendência de churn, como:
+    - Entender perfil dos clientes
+    - Realizar upgrades/downgrades de planos, a fim de adequar os clientes com seus respectivos perfis
+    - Oferecer descontos/benefícios
+    - Entrar em contato com cliente para entender possíveis insatisfações e propor planos de ação
