@@ -9,3 +9,10 @@ GUIA DO REPOSITÓRIO:
 - O arquivo *previsoes_dataset_teste.csv* apresenta os dados de teste incluindo colunas das previsões geradas pelo modelo de classificação.
 - O arquivo *modelo_classificador.sav* é o modelo de classificação gerado no projeto.
 - Os arquivos *telecom_treino.csv* e *telecom_teste.csv* foram fornecidos pela DSA para realização do projeto.
+
+
+POSSÍVEIS MELHORIAS:
+- Testar outros algoritmos de regressão como o XGBoost, a fim de encontrar o melhor modelo possível.
+
+PRÓXIMOS PASSOS:
+- Projetar ações específicas para retenção dos clientes com maior tendência de churn.
